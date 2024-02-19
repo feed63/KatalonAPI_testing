@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>getCountryCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c215b27-2204-459c-a852-c9060a514796</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de267c85-d491-47c7-859e-1efcfaf91bde</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'United States\r\n'</defaultValue>
+      <description></description>
+      <id>de267c85-d491-47c7-859e-1efcfaf91bde</id>
+      <masked>false</masked>
+      <name>countryName</name>
+   </variable>
+</TestCaseEntity>

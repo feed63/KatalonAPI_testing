@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Parameterization_Variables</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4edda78c-287a-4902-aef3-90ff0220fda7</testSuiteGuid>
+   <testCaseLink>
+      <guid>63ce6275-2617-47b9-9db9-9a4881c41b3e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Parameterization_Variables_API_Tests</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eaf6472c-551f-446c-842b-9890c263d8e1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>eaf6472c-551f-446c-842b-9890c263d8e1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>countryName</value>
+         <variableId>2fc075c2-7e4c-442f-9548-a6a655dcd4f6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eaf6472c-551f-446c-842b-9890c263d8e1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>countryCode</value>
+         <variableId>da7b9973-6d6f-4581-b9c1-0a560b1eae80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eaf6472c-551f-446c-842b-9890c263d8e1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>capitalCity</value>
+         <variableId>e98ee0c5-3016-4904-8636-ba908b3a747c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eaf6472c-551f-446c-842b-9890c263d8e1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>currencyName</value>
+         <variableId>30596c04-260f-4a8c-b002-58def96d383a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
